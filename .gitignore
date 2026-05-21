@@ -1,2 +1,5 @@
-.idea/
-.junie/
+.idea
+.junie
+.venv
+.codex
+.agents
