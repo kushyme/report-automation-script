@@ -1,0 +1,12 @@
+# Requirements for report-automation.py
+#
+# The script only uses the Python standard library, so there are no pip
+# packages to install from this file.
+#
+# Required:
+# - Python 3.10 or newer
+# - Git
+# - Junie CLI installed and authenticated
+#
+# Optional:
+# Set JUNIE_BIN if the Junie executable is not available as "junie" on PATH.
